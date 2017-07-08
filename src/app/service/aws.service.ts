@@ -59,7 +59,7 @@ export class AwsUtil {
             // Setup mobile analytics
             var options = {
                 appId: '32673c035a0b40e99d6e1f327be0cb60',
-                appTitle: "aws-cognito-angular2-quickstart"
+                appTitle: "iot-frontend"
             };
 
             // TODO: The mobile Analytics client needs some work to handle Typescript. Disabling for the time being.
