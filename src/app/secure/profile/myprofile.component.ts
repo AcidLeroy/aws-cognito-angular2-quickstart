@@ -9,6 +9,7 @@ import {Router} from "@angular/router";
     selector: 'awscognito-angular2-app',
     templateUrl: './myprofile.html'
 })
+
 export class MyProfileComponent implements LoggedInCallback {
 
     public parameters: Array<Parameters> = [];
